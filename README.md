@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marwan Elmasry
+Hi My name is Marwan Elmasry
 ======================================================================================================================================
 
 MERN Stack Developer | Full Stack Engineer
 -------------------------------------------
 
 * 🌍  I'm based in Giza, Egypt
-* 🖥️  See my portfolio at [My Portfolio](http://bit.ly/MarwanEL)
+* 🖥️  See my portfolio at [My Portfolio](https://marwanelmasry.vercel.app/)
 * ✉️  You can contact me at [marwan.elmasrry@outlook.com](mailto:marwan.elmasrry@outlook.com)
 * 📞  +20 155-079-3998
 * 🚀  I'm currently working on **Blue RealEstate Platform** — a MERN real estate management system
