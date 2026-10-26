@@ -8,7 +8,7 @@ MERN Stack Developer | Full Stack Engineer
 * 🖥️  See my portfolio at [My Portfolio](https://marwanelmasry.vercel.app/)
 * ✉️  You can contact me at [marwan.elmasrry@outlook.com](mailto:marwan.elmasrry@outlook.com)
 * 📞  +20 155-079-3998
-* ✅  Just wrapped up the **Blue RealEstate Platform** — a MERN real estate management system
+* ✅  Just wrapped up the **IHSS School Managment** — a MERN School management system
 * 🧠  Currently learning **TypeScript**
 * ⚙️  2+ years delivering production-grade full-stack apps across real estate, marketplace, healthcare, and entertainment verticals
 * 🎓  Holder of 4 IBM certifications in UI/UX, React, Git/GitHub, and Software Engineering
